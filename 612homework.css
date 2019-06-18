@@ -2,7 +2,7 @@
 * @Author: 73152
 * @Date:   2019-06-12 18:31:00
 * @Last Modified by:   73152
-* @Last Modified time: 2019-06-17 11:21:41
+* @Last Modified time: 2019-06-18 14:03:03
 */
 *{
 	padding: 0;
@@ -269,20 +269,22 @@ a{
 }
 .seventhly li div:hover p{
 	
-	top: 35%;
+	top: 50%;
 	left: 10%;
 	height: 80px;
-	line-height: 40px;
 	font-size: 20px;
-	width: 200px;
+	width: 230px;
 	background-color: #474744;
 	overflow: hidden;
 }
-.seventhly li div:hover .p2{
-	width: 180px;
-}
-.seventhly li div:hover .p2{
-	width: 185px;
+.seventhly li div:hover .p1{
+	top: 35%;
+	left: 10%;
+	height: 80px;
+	font-size: 20px;
+	width: 230px;
+	background-color: #474744;
+	overflow: hidden;
 }
 .seventhly .qili1{
 	overflow: hidden;
